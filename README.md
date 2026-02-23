@@ -30,6 +30,9 @@ Yorl (Do not contact)
 DataFromBelow (Do not contact)
 
 # Version History
+- 0.1.4
+  - test data added
+  - new goals added
 - 0.1.3
   - goal for test data added
 - 0.1.2
@@ -50,6 +53,7 @@ Yes, but humor is important for morale.
 
 # Current Goals
 - try to simply print a line from test-data.pdf
+  - try to print and then use as url input
 - combat ID = "BRnum"
 - Load datasource
   - datasource is excel file
