@@ -7,9 +7,10 @@ This is meant to become a pdf-downloader of a sort.
 
 ## Getting Started
 ### Dependencies
-Do not ask why this is, i don't yet know. See *Known Issues*
 - Python
 - World Wide Web Connection
+
+- excel
 
 ### Installing
 
@@ -29,6 +30,9 @@ Yorl (Do not contact)
 DataFromBelow (Do not contact)
 
 # Version History
+- 0.1.2
+  - test data added
+  - otherworldly entity entreated
 - 0.1.1
   - goals added
   - 
