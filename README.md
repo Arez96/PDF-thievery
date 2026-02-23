@@ -47,6 +47,7 @@ Yes, but humor is important for morale.
 - Load datasource
   - datasource is excel file
   - there are two excel arks
+- get correct paths
 - see url's in loaded pdf (maybe use head for now)
 - try request to get response code 200 + exception and finally
   - success leaves "success"
