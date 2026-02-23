@@ -59,7 +59,6 @@ Yes, but humor is important for morale.
   - datasource is excel file
   - there are two excel arks
   - load correct rows and columns
-- 
 - get correct paths
   - must consider external storage and network/mapped storage
 - see url's in loaded pdf (maybe use head for now)
@@ -69,3 +68,5 @@ Yes, but humor is important for morale.
 - save downloaded pdf in path
 - repeat for some amount of times
   -    do not kill entire network
+- check for duplicates downloads
+  - abort download if duplicate exists
