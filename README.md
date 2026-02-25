@@ -9,11 +9,11 @@ This is meant to become a pdf-downloader of a sort.
 ### Dependencies
 - Python
 - World Wide Web Connection
-
+- Openpyxl
 - excel
 
 ### Installing
-
+You pip install openpyxl or none of this works for some reason.
 
 ### Executing Program
 
