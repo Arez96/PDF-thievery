@@ -56,21 +56,26 @@ for j in range(len(df)):
     elif type(url_link) is str:
         print(url_link)
         try:
-            response = requests.get(url_link)
+            if :
+            else:
+                response = requests.get(url_link)
             if response.status_code == 200:
                 #os.path and os goes here
-                # this is where you'd take data and store as a pdf in output path 
-                print("200")
+                # this is where you'd take data and store as a pdf in output path
+                #print("200")
+                print(f"200 : {file_name} : Success")
+            elif:
+                print(f"404 : {file_name} : {url_link}")
+                #write in excel file that link is 404
             else:
-                print("404")
+                pass
             pass
         except:
+            print(f"exception: {url_link} invalid url")
             pass
     else:
         print("fail")
     
-
-
 
 
 
@@ -81,5 +86,6 @@ for j in range(len(df)):
 # duplicate check
 # not sure how to check that
 duplicate_check = ""
+
 
 
